@@ -1,0 +1,41 @@
+Test Case Description,YN
+TC_Order Track_Positive,Y
+TC_Order Track_when no body provided,Y
+TC_Order Track_when authentication credentials is invalid,Y
+TC_Order Track_when invalid client Id,Y
+TC_Order Track_when GET Method is called,Y
+TC_Order Track_when PUT Method is called,Y
+TC_Order Track_when DELETE Method is called,Y
+TC_Order Track_when order is not available,Y
+TC_Order Track_when order is not open,Y
+TC_Order Track_when salesDocument number is invalid,Y
+TC_Order Track_when salesDocument number is null,Y
+TC_Order Track_when salesDocument number is not provided,Y
+TC_Order Create_Positive,Y
+TC_Order Create_when no body provided,Y
+TC_Order Create_when authentication credentials is invalid,Y
+TC_Order Create_when invalid client Id,Y
+TC_Order Create_when invalid bottler,Y
+TC_Order Create_when GET Method is called,Y
+TC_Order Create_when PUT Method is called,Y
+TC_Order Create_when DELETE Method is called,Y
+TC_Order cancel_Positive,Y
+TC_Order cancel_when no body provided,Y
+TC_Order cancel_when authentication credentials is invalid,Y
+TC_Order cancel_when invalid client Id,Y
+TC_Order cancel_when invalid bottler,Y
+TC_Order cancel_when GET Method is called,Y
+TC_Order cancel_when PUT Method is called,Y
+TC_Order cancel_when DELETE Method is called,Y
+TC_Order cancel_when order is not available,Y
+TC_Order cancel_when order is not open,Y
+TC_Order cancel_when salesDocument number is invalid,Y
+TC_Order cancel_when salesDocument number is null,Y
+TC_Order cancel_when salesDocument number is not provided,Y
+TC_Order Simulate_Positive,Y
+TC_Order Simulate_when authentication credentials is invalid,Y
+TC_Order Simulate_when invalid client Id,Y
+TC_Order Simulate_when invalid bottler,Y
+TC_Order Simulate_when GET Method is called,Y
+TC_Order Simulate_when PUT Method is called,Y
+TC_Order Simulate_when DELETE Method is called,y

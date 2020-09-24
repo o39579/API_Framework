@@ -1,0 +1,19 @@
+Test Case Description,YN
+TC_Order History_Positive,Y
+TC_Order History_when Outlets is not provided,Y
+TC_Order History_when OutletId is blank,Y
+TC_Order History_when OutletId is null,Y
+TC_Order History_when OutletId is invalid,Y
+TC_Order History_when OutletId is not provided,Y
+TC_Order History_when SalesOrg is blank,Y
+TC_Order History_when SalesOrg is null,Y
+TC_Order History_when SalesOrg is invalid,Y
+TC_Order History_when SalesOrg is not provided,Y
+TC_Order History_when no body is provided,Y
+TC_Order History_when optional parameter is not passed,Y
+TC_Order History_when authentication credentials is invalid,Y
+TC_Order History_when invalid client Id,Y
+TC_Order History_when invalid bottler,Y
+TC_Order History_when GET Method is called,Y
+TC_Order History_when PUT Method is called,Y
+TC_Order History_when DELETE Method is called,Y

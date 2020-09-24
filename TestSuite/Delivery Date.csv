@@ -1,0 +1,48 @@
+Test Case Description,YN
+TC_Delivery Date_Positive_Distribution Channel Z1,Y
+TC_Delivery Date_Positive_Distribution Channel Z2,Y
+TC_Delivery Date_Positive_Distribution Channel Z3,Y
+TC_Delivery Date_Positive_Distribution Channel Z4,Y
+TC_Delivery Date_Positive_Shipping Condition 01,Y
+TC_Delivery Date_Positive_Shipping Condition 02,Y
+TC_Delivery Date_Positive_Shipping Condition 03,Y
+TC_Delivery Date_Positive_Shipping Condition 04,Y
+TC_Delivery Date_Positive_Shipping Condition 05,Y
+TC_Delivery Date_Positive_Shipping Condition 06,Y
+TC_Delivery Date_Positive_Shipping Condition 07,Y
+TC_Delivery Date_Positive_Shipping Condition 08,Y
+TC_Delivery Date_Positive_Shipping Condition 09,Y
+TC_Delivery Date_Positive_Shipping Condition 10,Y
+TC_Delivery Date_Positive_Shipping Condition 11,Y
+TC_Delivery Date_Positive_Visit Plan 01,Y
+TC_Delivery Date_Positive_Visit Plan 02,Y
+TC_Delivery Date_Positive_Visit Plan 03,Y
+TC_Delivery Date_Positive_Visit Plan 04,Y
+TC_Delivery Date_Positive_Visit Plan 05,Y
+TC_Delivery Date_Positive_Visit Plan Y1,Y
+TC_Delivery Date_Positive_Visit Plan Y2,Y
+TC_Delivery Date_Positive_Visit Plan Y3,Y
+TC_Delivery Date_Positive_Visit Plan Z1,Y
+TC_Delivery Date_Positive_Visit Plan Z2,Y
+TC_Delivery Date_Positive_Visit Plan Z3,Y
+TC_Delivery Date_Positive_Visit Plan Z4,Y
+TC_Delivery Date_Positive_Visit Plan Z5,Y
+TC_Delivery Date_Positive_Visit Plan Z6,Y
+TC_Delivery Date_Positive_Visit Plan Z7,Y
+TC_Delivery Date_Positive_Visit Plan Z8,Y
+TC_Delivery Date_Positive_Visit Plan Z9,Y
+TC_Delivery Date_when Customer Number is blank,Y
+TC_Delivery Date_when Customer Number is not provided in body,Y
+TC_Delivery Date_when Customer Number is invalid,Y
+TC_Delivery Date_when SalesOrg is blank,Y
+TC_Delivery Date_when SalesOrg is not provided in body,Y
+TC_Delivery Date_when SalesOrg is not provided in invalid,Y
+TC_Delivery Date_when no body provided,Y
+TC_Delivery Date_when authentication credentials is invalid,Y
+TC_Delivery Date_when invalid client Id,Y
+TC_Delivery Date_when optional parameter is not passed,Y
+TC_Delivery Date_when GET Method is called,Y
+TC_Delivery Date_when PUT Method is called,Y
+TC_Delivery Date_when DELETE Method is called,Y
+TC_DeliveryDate_when BottlerSpecificId is null,Y
+TC_DeliveryDate_when BottlerSpecificId is invalid,Y

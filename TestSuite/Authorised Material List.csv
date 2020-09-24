@@ -1,0 +1,11 @@
+Test Case Description,YN
+TC_Authorised Material List_Positive,Y
+TC_Authorised Material List_when salesOrg is blank,Y
+TC_Authorised Material List_when salesOrg is not provided in body,Y
+TC_Authorised Material List_when salesOffice is blank,Y
+TC_Authorised Material List_when salesOffice is not provided in body,Y
+TC_Authorised Material List_when no body provided,Y
+TC_Authorised Material List_when invalid bottler,Y
+TC_Authorised Material List_when authentication credentials is invalid,Y
+TC_Authorised Material List_when invalid client Id,Y
+TC_Authorised Material List_when optional parameter is not passed,Y
